@@ -11,7 +11,7 @@
   <a href = "mailto:perezcfnpbnu@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank">
   </a>
- <img align="right" src="https://i.picasion.com/pic92/04ba1ae6161c73614b591111bc37b398.gif" width="150" height="150" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+
   <a href="https://www.instagram.com/lucas_perez334/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
