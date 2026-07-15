@@ -233,17 +233,6 @@ Operação de sistemas de agendamento hospitalar e atendimento ao paciente, com 
 
 ---
 
-<!--=========================== TROPHIES ===========================-->
-## 🎖️ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LucasPerezAlves&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
 <!--=========================== ACTIVITY GRAPH ===========================-->
 ## 📈 Contribution Activity
 
@@ -260,7 +249,7 @@ Operação de sistemas de agendamento hospitalar e atendimento ao paciente, com 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LucasPerezAlves/LucasPerezAlves/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/LucasPerezAlves/LucasPerezAlves/output/github-contribution-grid-snake.svg" />
 
 </div>
 
